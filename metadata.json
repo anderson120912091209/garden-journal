@@ -1,0 +1,5 @@
+{
+  "name": "Garden Journal",
+  "description": "A minimalistic 3D calendar where you track your mood by planting flowers on specific days.",
+  "requestFramePermissions": []
+}
